@@ -40,6 +40,11 @@
   </a>
 </div>
 
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=GabrielMorettii&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMorettii&hide=css,java,html&layout=compact&theme=radical">
+</p>
+
 <p align="center">
   <samp>
     “Em um lugar escuro estamos nós. E mais conhecimento ilumina nosso caminho.” Mestre Yoda
