@@ -3,8 +3,6 @@
 
 <br>
 
-<img align="right" src="https://i.pinimg.com/originals/0a/85/67/0a8567efcf94be140d84d8c508290fb0.gif" width="400px" height="650px">
-
 - 🌱 I’m currently learning **NodeJS, Microsservices and Serverless**
 
 - 👨‍🎓 I'm Analysis and Systems Development Student at Fatec Jales
