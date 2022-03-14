@@ -9,37 +9,7 @@
 
 - 📄 Know about my experiences, **I've worked as a computer technician assistant and interned as an administrative assistant at TJSP**
 
- 
-<div style="display: grid; grid-template-columns: 1fr 1fr" align="left">
-
-<div>
-## Knowledge
-
-**Languages**
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/GabrielMorettii/)](https://github.com/GabrielMorettii/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&link=https://github.com/GabrielMorettii/)](https://github.com/GabrielMorettii/)
-[![C](https://img.shields.io/badge/-336791?style=flat-square&logo=c&logoColor=white&link=https://github.com/GabrielMorettii/)](https://github.com/GabrielMorettii/)
-[![Java](https://img.shields.io/badge/-Java-000000?style=flat-square&logo=java&link=https://github.com/GabrielMorettii/)](https://github.com/GabrielMorettii/)
-
-**Database**
-[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/GabrielMorettii/)](https://github.com/GabrielMorettii/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/GabrielMorettii/)](https://github.com/GabrielMorettii/)
-[![Redis](https://img.shields.io/badge/-Redis-red?style=flat-square&logo=redis&link=https://github.com/GabrielMorettii/)](https://github.com/GabrielMorettii/)
-
-**Others Technologies**
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/GabrielMorettii/)](https://github.com/GabrielMorettii/)
-[![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&link=https://github.com/GabrielMorettii/)](https://github.com/GabrielMorettii/)
-[![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/GabrielMorettii/)](https://github.com/GabrielMorettii/)
-[![Figma](https://img.shields.io/badge/-Figma-ffbaba?style=flat-square&logo=figma)](https://github.com/GabrielMorettii/)
-
-**Versioning and Communication**
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/GabrielMorettii/)](https://github.com/GabrielMorettii/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/GabrielMorettii/)](https://github.com/GabrielMorettii/)
-[![Discord](https://img.shields.io/badge/-Discord-000000?style=flat-square&logo=Discord&link=https://github.com/GabrielMorettii/)](https://github.com/GabrielMorettii/)
- </div>
-
-
-<div>
+ <br>
  
  <p align="left">
   <details>
@@ -64,7 +34,11 @@
   <a href="https://www.instagram.com/g_morettii/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/g_morettii/" />
   </a>
-</div>
 
-</div>
+
+
+
+
+
+
 
