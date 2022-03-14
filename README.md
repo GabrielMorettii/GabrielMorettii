@@ -9,19 +9,7 @@
 
 - 📄 Know about my experiences, **I've worked as a computer technician assistant and interned as an administrative assistant at TJSP**
 
-  
-<h3 align="left">Connect with me:</h3>
-<div style="width: 100%; display: flex;" align="left">
-  <a href="mailto:gabrielmorettisilva@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gabrielmorettisilva@gmail.com" />
-  </a>
-  <a href="https://www.linkedin.com/in/gabriel-morettii/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-morettii/" />
-  </a>
-  <a href="https://www.instagram.com/g_morettii/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/g_morettii/" />
-  </a>
-</div>
+ 
 
 ## Knowledge
 
@@ -29,11 +17,7 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/GabrielMorettii/)](https://github.com/GabrielMorettii/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&link=https://github.com/GabrielMorettii/)](https://github.com/GabrielMorettii/)
 [![C](https://img.shields.io/badge/-336791?style=flat-square&logo=c&logoColor=white&link=https://github.com/GabrielMorettii/)](https://github.com/GabrielMorettii/)
-
-**Mobile / Front-end**
-[![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)](https://github.com/GabrielMorettii/)
-[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/GabrielMorettii/)](https://github.com/GabrielMorettii/)
-[![Styled-components](https://img.shields.io/badge/-Styled%20Components-pink?style=flat-square&logo=styled-components)](https://github.com/GabrielMorettii/)
+[![Java](https://img.shields.io/badge/-Java-000000?style=flat-square&logo=java&link=https://github.com/GabrielMorettii/)](https://github.com/GabrielMorettii/)
 
 **Database**
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/GabrielMorettii/)](https://github.com/GabrielMorettii/)
@@ -57,13 +41,25 @@
 <p align="left">
   <details>
   <summary>:zap: Main Languages</summary>
-    <img src = "https://github-readme-stats.vercel.app/api?username=GabrielMorettii&show_icons=true&theme=radical&line_height=27">
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMorettii&hide=css,java,html&layout=compact&theme=radical">
+  </details>
+  <details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img src = "https://github-readme-stats.vercel.app/api?username=GabrielMorettii&show_icons=true&theme=radical&line_height=27">
   </details>
 </p>
 
-<p align="center">
-  <samp>
-    “Em um lugar escuro estamos nós. E mais conhecimento ilumina nosso caminho.” Mestre Yoda
-  </samp>
-</p>
+<h3 align="left">Connect with me:</h3>
+<div style="width: 100%; display: flex;" align="left">
+  <a href="mailto:gabrielmorettisilva@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gabrielmorettisilva@gmail.com" />
+  </a>
+  <a href="https://www.linkedin.com/in/gabriel-morettii/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-morettii/" />
+  </a>
+  <a href="https://www.instagram.com/g_morettii/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/g_morettii/" />
+  </a>
+</div>
+
