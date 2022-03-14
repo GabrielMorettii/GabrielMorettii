@@ -1,19 +1,15 @@
 <h1 align="center">Hello World, I'm Gabriel</h1>
-<h3 align="center">I'm a full-stack developer with a focus on JavaScript and its entire Ecosystem</h3>
+<h3 align="center">I'm a back-end developer with a focus on JavaScript and its entire Ecosystem</h3>
 
 <br>
 
 <img align="right" src="https://i.pinimg.com/originals/0a/85/67/0a8567efcf94be140d84d8c508290fb0.gif" width="400px" height="650px">
 
-- 🌱 I’m currently learning **React, React Native e NodeJS**
-
-- 💬 Ask me about **HTML, CSS e JavaScript**
+- 🌱 I’m currently learning **NodeJS, Microsservices and Serverless**
 
 - 👨‍🎓 I'm Analysis and Systems Development Student at Fatec Jales
 
 - 📄 Know about my experiences, **I've worked as a computer technician assistant and interned as an administrative assistant at TJSP**
-
-- ⚡ Fun fact **At school, I generally enjoyed solving math problems as a hobby.**
 
   
 <h3 align="left">Connect with me:</h3>
@@ -61,8 +57,11 @@
 <br><br>
 
 <p align="left">
-  <img src = "https://github-readme-stats.vercel.app/api?username=GabrielMorettii&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMorettii&hide=css,java,html&layout=compact&theme=radical">
+  <details>
+  <summary>:zap: Main Languages</summary>
+    <img src = "https://github-readme-stats.vercel.app/api?username=GabrielMorettii&show_icons=true&theme=radical&line_height=27">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMorettii&hide=css,java,html&layout=compact&theme=radical">
+  </details>
 </p>
 
 <p align="center">
