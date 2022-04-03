@@ -13,6 +13,9 @@
 
 - 📄 Know about my experiences, **I've worked as a computer technician assistant and interned as an administrative assistant at TJSP**
 
+<br/>
+<br/>
+
 **Current languages and tools:**
 <p>
    <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"><img alt="NodeJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="max-width:100%;" width="30px" align="left"></a>
