@@ -2,7 +2,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **NodeJS, MongoDB, Redis**
+- 🌱 I’m currently learning **NodeJS, Microsservices, Docker**
 
 - 👨‍🎓 I'm Analysis and Systems Development Student at Fatec Jales
 
