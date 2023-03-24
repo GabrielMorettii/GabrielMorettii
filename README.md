@@ -2,7 +2,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **CI/CD, Microsservices, Kubernetes**
+- 🌱 I’m currently learning **React and Microsservices**
 
 - 👨‍🎓 I've degree in Systems Analysis and  Development
 
