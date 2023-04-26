@@ -1,10 +1,19 @@
-![Header](./assets/github-header-image.png)
+![Header](./assets/header3.png)
 
 <br>
 
-- 🌱 I’m currently learning **React and Microsservices**
 
-- 👨‍🎓 I've degree in Systems Analysis and  Development
+ :rocket:  &nbsp; I'm currently working at **Intuix**
+ <br/> 🌱 &nbsp; I’m currently learning **React and Microsservices**
+ <br/> 👨‍🎓  &nbsp; I've degree in Systems Analysis and  Development
+ <br/> :purple_heart: &nbsp; Looking to collaborate on projects with React/Next/Node
+ <br/> :email: &nbsp; Get in touch with me: [![Linkedin Badge](https://img.shields.io/badge/-GabrielMoretti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gbdesigns13/)](https://www.linkedin.com/in/gabriel-morettii/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-gabrielmorettisilva@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=gabrielmorettisilva@gmail.com)](mailto:gabrielmorettisilva@gmail.com)
+
+
+
+
 
 <br/>
 <br/>
@@ -29,17 +38,6 @@
    <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" align="left" width="30px" height="30px"></a>
 </p>
 <br/>
-<br/>
-<br/>
-<br/>
- 
-<div  align="center">
-     <a href="https://github.com/GabrielMorettii"></a>
-     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielMorettii&hide_border=true&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/> &nbsp;
-     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMorettii&layout=compact&count_private=true&hide_border=true&theme=blueberry&show_icons=true">
-</div>
-
-
 
 
 
