@@ -4,7 +4,7 @@
 
 
  :rocket:  &nbsp; I'm currently working at **Intuix**
- <br/> 🌱 &nbsp; I’m currently learning **React and Microsservices**
+ <br/> 🌱 &nbsp; I’m currently learning **Figma and Microsservices**
  <br/> 👨‍🎓  &nbsp; I've degree in Systems Analysis and  Development
  <br/> :purple_heart: &nbsp; Looking to collaborate on projects with React/Next/Node
  <br/> :email: &nbsp; Get in touch with me: [![Linkedin Badge](https://img.shields.io/badge/-GabrielMoretti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gbdesigns13/)](https://www.linkedin.com/in/gabriel-morettii/) 
