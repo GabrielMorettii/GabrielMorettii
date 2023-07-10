@@ -3,7 +3,7 @@
 <br>
 
 
- :rocket:  &nbsp; I'm currently working at **Intuix**
+ :rocket:  &nbsp; I'm currently working at **Trampa**
  <br/> 🌱 &nbsp; I’m currently learning about **Microservices**
  <br/> 👨‍🎓  &nbsp; I've degree in Systems Analysis and Development
  <br/> :purple_heart: &nbsp; Looking to collaborate on projects with React/Next/Node
