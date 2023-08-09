@@ -4,7 +4,7 @@
 
 
  :rocket:  &nbsp; I'm currently working at **Trampa**
- <br/> 🌱 &nbsp; I’m currently learning about **Microservices**
+ <br/> 🌱 &nbsp; I’m currently learning more about **Database Engineering**
  <br/> 👨‍🎓  &nbsp; I've degree in Systems Analysis and Development
  <br/> :purple_heart: &nbsp; Looking to collaborate on projects with React/Next/Node
  <br/> :email: &nbsp; Get in touch with me: [![Linkedin Badge](https://img.shields.io/badge/-GabrielMoretti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gbdesigns13/)](https://www.linkedin.com/in/gabriel-morettii/) 
